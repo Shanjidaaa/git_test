@@ -1,0 +1,1 @@
+This is Shanjida's first git project!
